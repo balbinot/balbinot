@@ -9,8 +9,8 @@ Big/flying 🔭 are cool and making other people collaborate (👯) towards maki
 
 ##### Social
 
-[<img align="left" alt="balbinot.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://balbinot.github.io/]
-[<img align="left" alt="balbinotdd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/balbinotdd]
-[<img align="left" alt="eduardo-balbinot-astro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/eduardo-balbinot-astro/]
+[<img align="left" alt="balbinot.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://balbinot.github.io/)
+[<img align="left" alt="balbinotdd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/balbinotdd)
+[<img align="left" alt="eduardo-balbinot-astro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eduardo-balbinot-astro/)
 
 
